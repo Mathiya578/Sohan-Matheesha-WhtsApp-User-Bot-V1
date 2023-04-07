@@ -1,6 +1,6 @@
 
 
-<h1 align="center">ꪶ SOHAN MATHEESHA WHATSAPP USER BOTꫂ<br></h1>
+<h1 align="center">ꪶ SOHAN MATHEESHA WHATSAPP USER BOTZꫂ<br></h1>
 <p align="center">
 <img src="Elisa.jpg" alt="animated" width="280" height="280" />
 </p>
