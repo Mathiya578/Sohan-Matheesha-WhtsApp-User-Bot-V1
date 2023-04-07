@@ -1,36 +1,26 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩6ꫂ<br></h1>
+<h1 align="center">ꪶ SOHAN MATHEESHA WHATSAPP USER BOTꫂ<br></h1>
 <p align="center">
-<img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
+<img src="Elisa.jpg" alt="animated" width="280" height="280" />
 </p>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
-
-<p align="center">
-Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray Senpai</a> for huge contribution, Check out his bot <a href="https://github.com/RaySenpai69/Nezuko" target="_blank">Nezuko</a>
-</p>
-
----
-
-<p align="center">
-<a href="https://youtu.be/eE1bUUnR87Y"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+Sohan-Matheesha Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/Mathiya578" target="_blank">Sohan</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 ------
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD6?color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD6?color=red&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGXeon/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Mathiya578/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mathiya578?color=red&style=flat-square"></a>
+<a href="https://github.com/Mathiya578/CheemsBot-MD6/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mathiya578/CheemsBot-MD6?color=blue&style=flat-square"></a>
+<a href="https://github.com/Mathiya578/CheemsBot-MD6/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mathiya578/CheemsBot-MD6?color=red&style=flat-square"></a>
+<a href="https://github.com/Mathiya578/CheemsBot-MD6/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mathiya578/CheemsBot-MD6?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Mathiya578/CheemsBot-MD6"><img title="Open Source" src="https://img.shields.io/badge/Author-Sohan%20Bot%20Inc.-red?v=103"></a>
 <a href="https://github.com/DGXeon/CheemsBot-MD6/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD6?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/DGXeon/CheemsBot-MD6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSohan%2FSohanBot-MD6&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Mathiya578/CheemsBot-MD6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -52,11 +42,7 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
-## ```Bot Support Groups```
-
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/BW0o3ZyiAF5Azb1bIqG9Ue)
-- [`3rd GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
+GC`](https://chat.whatsapp.com/KMymhLdGcjPHihOkrfHW7q)
 
 # Setup For Deployment 👇
 
@@ -72,52 +58,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD6)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD6/)
-
-# Install Manually 👇
-## `Requirements`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-## `Clone Repo & Installation dependencies`
-```bash
-git clone https://github.com/DGXeon/CheemsBot-MD6.git
-cd CheemsBot-MD6
-
-npm start
-```
-## `For Termux/Ssh/Ubuntu`
-```bash
-apt update
-apt upgrade
-pkg update && pkg upgrade
-pkg install bash
-pkg install libwebp
-pkg install git -y
-pkg install nodejs -y 
-pkg install ffmpeg -y 
-pkg install wget
-pkg install imagemagick -y
-git clone https://github.com/DGXeon/CheemsBot-MD6
-cd CheemsBot-MD
-npm start
-```
-## `For VPS`
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagrmagick
-apt install bash
-git clone https://github.com/DGXeon/CheemsBot-MD6
-cd CheemsBot-MD6
-npm start
-```
+[
 ## `For 24/7 Activation (Termux)`
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
