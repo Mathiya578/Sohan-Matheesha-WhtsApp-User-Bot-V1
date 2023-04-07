@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶ SOHAN MATHEESHA WHATSAPP USER BOTZꫂ<br></h1>
 <p align="center">
-<img src="Elisa.jpg" alt="animated" width="280" height="280" />
+<img src="Elisa.jpg" alt="animated" width="600" height="600" />
 </p>
 
 <p align="center">
