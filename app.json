@@ -1,0 +1,25 @@
+{
+  "name": "Sohan-Matheesha-WhtsApp-User-Bot-V1",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/Mathiya578/Sohan-Matheesha-WhtsApp-User-Bot-V1",
+  "logo": "https://telegra.ph/Sohan-08-15",
+  "keywords": ["nodejs", "simple whatsapp bot","whatsapp"],
+  
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
